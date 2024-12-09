@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342462900302",
+    "project_id": "super-memo-1902001",
+    "storage_bucket": "super-memo-1902001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342462900302:android:c29688a85549473a357b1f",
+        "android_client_info": {
+          "package_name": "com.example.supermemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD961Wmhr5-30viTPXqLLBi_5DnVx9tmTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342462900302:android:2c78171829b2d561357b1f",
+        "android_client_info": {
+          "package_name": "com.example.supermemo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD961Wmhr5-30viTPXqLLBi_5DnVx9tmTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
